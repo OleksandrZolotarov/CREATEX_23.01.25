@@ -1430,8 +1430,7 @@ textarea.input {
 }
 .certificate__image {
   position: relative;
-  z-index: 1;
-   
+  z-index: 1
 }
 .certificate__image img {
   width: 100%;
@@ -3581,7 +3580,7 @@ header {
 .team__card-image {
   aspect-ratio: 285/340;
   position: relative;
-  border-radius: 3.125rem;
+  border-radius: .25rem;
   overflow: hidden
 }
 .team__card-image img {
@@ -3991,6 +3990,7 @@ header {
   position: relative;
   display: flex;
   flex-direction: column;
+  align-items: flex-start;
   color: #787a80;
   font-size: .875rem;
   font-weight: 700;
