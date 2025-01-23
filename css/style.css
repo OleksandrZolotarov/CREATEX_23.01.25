@@ -1431,7 +1431,7 @@ textarea.input {
 .certificate__image {
   position: relative;
   z-index: 1;
-  box-shadow: 0 5rem 5rem -1.25rem rgba(154,156,165,.16),0 1.875rem 1.5rem -.625rem rgba(154,156,165,.1),0 .75rem .625rem -.375rem rgba(154,156,165,.08),0 .25rem .25rem -.25rem rgba(30,33,44,.05)
+   
 }
 .certificate__image img {
   width: 100%;
